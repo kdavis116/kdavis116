@@ -1,8 +1,10 @@
 <h1>Hi, I'm Kyle! </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 System Administration and Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/kdavis116/LABURL)
+  - <b>PowerShell</b>
+    - [JWipe (Disk Wiping Utility)](https://github.com/kdavis116/LABURL)
 
 
 <h2>📄 Certifications</h2>
