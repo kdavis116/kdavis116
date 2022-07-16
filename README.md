@@ -1,7 +1,31 @@
-### Hi there 👋
+<h1>Hi, I'm Kyle! </h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/kdavis116/LABURL)
+
+
+<h2>📄 Certifications</h2>
+
+- LPI Linux Essentials
+- MTA Server Fundamentals
+
+<h2>🌱 I’m currently learning</h2>
+
+- CompTIA Security+
+- CompTIA Linux+
+- CompTIA Network+
+- (ISC)2 Systems Security Certified Practitioner (SSCP)
+- EC-Council Certified Ethical Hacker (CEH)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/kyledavis116
 
 <!--
-**kdavis116/kdavis116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
