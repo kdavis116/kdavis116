@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/kdavis116/LABURL)
   - <b>PowerShell</b>
-    - [JWipe (Disk Wiping Utility)](https://github.com/kdavis116/LABURL)
+    - [JWipe (Disk Wiping Utility)](https://github.com/kdavis116/JWipe-PowerShell-Lab)
 
 
 <h2>📄 Certifications</h2>
